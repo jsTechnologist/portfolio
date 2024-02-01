@@ -27,7 +27,7 @@ const SidebarHeader=()=>{
                   color="whitesmoke" >برنامه نویس و توسعه دهنده</Typography>
               <Box component="div" sx={{ m:"0 auto",textAlign:"center"}}>
                 <IconButton aria-label="Github">
-                  <a href="https://github.com/nextJsTechnologist"target="_blank"
+                  <a href="https://github.com/jsTechnologist"target="_blank"
                   rel="noopener noreferrer">
                     <GitHub sx={{color:"whitesmoke"}}/>
                   </a>
